@@ -5,4 +5,4 @@ Esses testes são projetados para avaliar pequenas unidades de código, como mé
 
 ## Mecânicas
 As mecanicas utilizadas foram escolhidas para garantir a performance do codigo e integridade perante os testes.
-![JUNIT](JUNIT.png)
+![JUNIT](JUNIT.PNG)
